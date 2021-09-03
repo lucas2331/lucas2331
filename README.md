@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Lucas 👋
 
 <div>
   <!-- Name and stats commits -->
