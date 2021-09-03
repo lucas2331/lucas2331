@@ -39,6 +39,12 @@
  
   <!-- Flutter -->
   <img align="center" alt="Lucas-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  
+  <!-- Gitlab -->
+  <img align="center" alt="Lucas-Gitlab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  
+  <!-- Ubuntu -->
+  <img align="center" alt="Lucas-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
 </div>
 
 <h3> Connect with me </h3>
