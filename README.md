@@ -1,6 +1,6 @@
 ### Hello, my name is Lucas 👋
 
-<div><br>
+<div>
   <!-- Name and stats commits -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas2331&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    
